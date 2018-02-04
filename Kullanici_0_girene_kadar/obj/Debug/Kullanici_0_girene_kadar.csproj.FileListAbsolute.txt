@@ -1,0 +1,7 @@
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\bin\Debug\Kullanici_0_girene_kadar.exe.config
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\bin\Debug\Kullanici_0_girene_kadar.exe
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\bin\Debug\Kullanici_0_girene_kadar.pdb
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\obj\Debug\Kullanici_0_girene_kadar.csprojResolveAssemblyReference.cache
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\obj\Debug\Kullanici_0_girene_kadar.csproj.CoreCompileInputs.cache
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\obj\Debug\Kullanici_0_girene_kadar.exe
+C:\Users\ckl_m\source\repos\Kullanici_0_girene_kadar\Kullanici_0_girene_kadar\obj\Debug\Kullanici_0_girene_kadar.pdb
